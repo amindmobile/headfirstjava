@@ -1,1 +1,1 @@
-Just learning java with the "Head first java" book.
+Just learning Java with the "Head first java" book.
