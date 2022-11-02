@@ -1,3 +1,5 @@
+package headfirstjava;
+
 public class exercise_51_b {
     public static void main(String[] args) {
         int x = 1;
